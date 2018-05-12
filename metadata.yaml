@@ -1,0 +1,40 @@
+_repo: Conferenze-tenute-a-Firenze-nel-1896La-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impe__43193
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43193-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43193'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Civilization'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1789-1815'
+- !lcsh 'Italy -- Social conditions'
+tableOfContents: La delinquenza nella rivoluzione francese, conferenza di C. Lombroso
+  -- Mesmer e il magnetismo, conferenza di A. Mosso -- Napoleone, conferenza di A.
+  G. Barrili -- I francesi in Italia (1796-1815) conferenza di V. Fiorini -- La Repubblica
+  partenopea, conferenza di G. Pompilj -- La trasformazione sociale, conferenza di
+  F. S. Nitti -- Il regno d'Etruria, conferenza di E. M. de Vogüé -- Donne, salotti
+  e costumi, conferenza di F. Martini -- Vincenzo Monti (1754-1828) conferenza di
+  E. Masi -- Ugo Foscolo (1778-1827) conferenza di G. Chiarini -- Giacomo Leopardi
+  (1798-1837) conferenza di G. Pascoli -- Antonio Canova (1757-1822) e l'arte de suoi
+  tempi, conferenza di A. Venturi -- La musica, conferenza di E. Panzacchi.
+title: 'Conferenze tenute a Firenze nel 1896
+
+  La vita italiana durante la Rivoluzione francese e l''Impero'
+url: http://www.gutenberg.org/ebooks/43193
